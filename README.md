@@ -1,4 +1,8 @@
-# Student_Data_Analysis_Project_by_Python
+
+
+https://github.com/user-attachments/assets/599610be-70cf-4381-94e6-7b97275f2002
+
+#Student_Data_Analysis_Project_by_Python
 This project analyzes the factors that affect students' academic performance using Python and its libraries such as Numpy, Pandas, Matplotlib, and Seaborn. The dataset includes information on gender distribution, parental education levels, parental marital status, sports practice frequency, test preparation completion, and weekly study hours.
 
 Key Findings:
